@@ -1,0 +1,2 @@
+rootProject.name = "Aplikasi Absesnsi Berbasis GPS"
+include ':app'
